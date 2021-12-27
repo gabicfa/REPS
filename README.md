@@ -6,4 +6,4 @@ An Android app was also developed to provide an interface where the user could c
 
 ## documentation
 
-This project documentation can be found [here] (https://hackaday.io/project/20362-reps)
+This project documentation can be found on [this hackady page](https://hackaday.io/project/20362-reps)
